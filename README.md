@@ -7,7 +7,7 @@ This repository contains code for 4 of 5 assignments given. The missing assignme
 ___
 ## Brief Overview
 
-### PA1: C Programming [(pa1)](pa1)
+### PA1: C Programming [(pa1)](https://github.com/benwang2/CS211/tree/main/pa1)
 The assignment was to write 6 relatively short programs.
 1. yell.c
     * Write a program yell that prints its argument all-caps. yell will read its first argument and print
@@ -24,23 +24,23 @@ After printing the modified string, it will print two exclamation points and a n
 6. bst.c
     * Write a program bst that manipulates binary search trees. It will receive commands from standard input, and print resposes to those commands to standard output. You will implement bst with three commands: **insert** *n*, **search** *n*, and **print**.
 
-<sub>To view the full description, see [pa1.pdf](pa1/pa1.pdf).</sub>
+<sub>To view the full description, see [pa1.pdf](https://github.com/benwang2/CS211/tree/main/pa1/pa1.pdf).</sub>
 
 ___
-### PA2: One-shot Learning [(pa2)](pa2)
+### PA2: One-shot Learning [(pa2)](https://github.com/benwang2/CS211/tree/main/pa2)
 Given matrices *X* and *Y*, your program will compute *(X<sup>T</sup>  X)<sup>-1</sup>X<sup>T</sup>Y* in order to learn *W*. This will require (1) multiplying, (2) transposing, and (3) inverting matrices.
 
-<sub>To view the full description, see [pa2.pdf](pa2/pa2.pdf).</sub>
+<sub>To view the full description, see [pa2.pdf](https://github.com/benwang2/CS211/tree/main/pa2/pa2.pdf).</sub>
 
 ___
-### PA4: Digital Logic [(pa4)](pa4)
+### PA4: Digital Logic [(pa4)](https://github.com/benwang2/CS211/tree/main/pa4)
 You will write a program truthtable that reads a file containing a description of a circuit, and prints that circuit’s truth table. The files specify (1) the number and names of each *input* to the
 circuit, (2) the number and names of each *output* from the circuit, and (3) the logic gates and components that make up the circuit.
 
 <sub>To view the full description, see [pa4.pdf](pa4/pa4.pdf).</sub>
 
 ___
-### PA5: Cache Simulation [(pa5)](pa5)
+### PA5: Cache Simulation [(pa5)](https://github.com/benwang2/CS211/tree/main/pa5)
 Write a cache simulator that will simulate two memory operations: reading and writing individual bytes. Your program will read a trace file describing addresses to read or write from, and will keep track of which blocks are stored in which cache lines in order to determine when these memory operations result in actual reads and writes to memory.
 
-<sub>To view the full description, see [pa5.pdf](pa5/pa5.pdf).</sub>
+<sub>To view the full description, see [pa5.pdf](https://github.com/benwang2/CS211/tree/main/pa5/pa5.pdf).</sub>
